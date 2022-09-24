@@ -1,7 +1,7 @@
 let greeting = "Hello my name is";
 let myname = "Inocêncio Cordeiro";
 let str = "And I have";
-let apples = "23";
+let apples = 23;
 let end = "apples";
 
 
