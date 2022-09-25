@@ -1,10 +1,5 @@
-let username = "Inocêncio";
+let A = 4 + 7;
+let B = 5 * 9;
+let C = B / A;
 
-console.log("Hello", username, "How are you ?");
-
-let totalapples = 20;
-let totalusers = 5;
-
-let applesperuser = totalapples / totalusers;
-
-console.log("You have", applesperuser, "apples");
+console.log(C)
