@@ -1,7 +1,12 @@
-let n = 49;
-if (n > 45) {
-  if (n < 65) {
-    console.log(n);
-  }
-  
+let i = 0;
+
+while (i < 10) {
+  console.log(i);
+  i++;
+}
+
+console.log("----------------")
+
+for (i = 0; i < 10; i++) {
+  console.log(i);
 }
